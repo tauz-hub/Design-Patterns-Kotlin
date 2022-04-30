@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62b8d532-c555-4258-8217-a620e41ae116" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DesignPatternBuilder.kt" afterDir="false" />
+    <list default="true" id="62b8d532-c555-4258-8217-a620e41ae116" name="Changes" comment="creating design patterns builder">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DesignPatternSingleton.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +39,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.DesignPatternSingletonKt">
     <configuration name="DesignPatternBuilderKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DesignPatternBuilderKt" />
       <module name="Design-Patterns-Kotlin" />
@@ -47,8 +47,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DesignPatternSingletonKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPatternSingletonKt" />
+      <module name="Design-Patterns-Kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.DesignPatternSingletonKt" />
         <item itemvalue="Kotlin.DesignPatternBuilderKt" />
       </list>
     </recent_temporary>
@@ -69,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651265136646</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="creating design patterns builder">
+      <created>1651349082013</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1651349082013</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,6 +100,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="creating design patterns builder" />
+    <option name="LAST_COMMIT_MESSAGE" value="creating design patterns builder" />
   </component>
 </project>
